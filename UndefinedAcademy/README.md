@@ -1,9 +1,9 @@
 <h2 align="center"> Undefined Academy </b> 💛</h2>
 
-
 🚀 [Undefined Academy](https://undefined.academy/#contenidos) 
 
-💻 [Playlist](https://www.youtube.com/playlist?list=PLKBvDYynKmlW1GrqNnwjdgoGP6PlYkxrh) FullStack by @midudev
+💻 [Playlist](https://www.youtube.com/playlist?list=PLKBvDYynKmlW1GrqNnwjdgoGP6PlYkxrh) FullStack By Undefined
+Academy
 
 # 📚 Contenidos
 
