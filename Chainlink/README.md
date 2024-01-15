@@ -28,11 +28,10 @@ Trnsacciones y Maquina de estado.
 ![Clave Publica/Privada](./images/PublicyPrivateKey.png)
 
    c. Markle Tree
-   
-      - Arbol de hash binario
-      - Estrutura de datos
-      - Mecanismo antifraude
-      - Se usan para Comprimir la transacciones en un bloque
+   - Arbol de hash binario
+   - Estrutura de datos
+   - Mecanismo antifraude
+   - Se usan para Comprimir la transacciones en un bloque
 
 ![MarkeTree](./images/MarkeTree.png)
    
@@ -51,5 +50,8 @@ Trnsacciones y Maquina de estado.
 
 ### Web 3
 - Wallets (Metamask)
-- Faucet 
+- Faucet
 
+- Clase #2 | [Oráculos, Tokens ERC20 y Chainlink Data Feeds](https://www.youtube.com/watch?v=prf1SS1t2hc)
+
+- Clase #3 | [Conceptos Fundamentales de Solidity](https://www.youtube.com/watch?v=aPc_jJvPhxw)
