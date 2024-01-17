@@ -50,7 +50,7 @@ Trnsacciones y Maquina de estado.
 
 ### Web 3
 - Wallets (Metamask)
-- Faucet
+- [Faucet](https://faucets.chain.link/)
 
 - Clase #2 | [Oráculos, Tokens ERC20 y Chainlink Data Feeds](https://www.youtube.com/watch?v=prf1SS1t2hc)
 
