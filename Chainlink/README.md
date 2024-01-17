@@ -49,13 +49,12 @@ Trnsacciones y Maquina de estado.
 - Proof of Authority - PoA
 
 ### Web 3
-- Wallets (Metamask)
+- [Wallets Metamask](https://metamask.io/)
 - [Faucet](https://faucets.chain.link/)
 
-- Clase #2 | [Oráculos, Tokens ERC20 y Chainlink Data Feeds](https://www.youtube.com/watch?v=prf1SS1t2hc)
+- Clase #2 | [Conceptos Fundamentales de Solidity](https://www.youtube.com/watch?v=aPc_jJvPhxw)
 
 
-
-- Clase #3 | [Conceptos Fundamentales de Solidity](https://www.youtube.com/watch?v=aPc_jJvPhxw)
+- Clase #3 | [Oráculos, Tokens ERC20 y Chainlink Data Feeds](https://www.youtube.com/watch?v=prf1SS1t2hc)
 
 - Clase #5 | [Sesión de Mentoria con la Comunidad de Chainlink](https://www.youtube.com/watch?v=24Ii_0HjiWo)
