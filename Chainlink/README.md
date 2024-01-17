@@ -54,4 +54,8 @@ Trnsacciones y Maquina de estado.
 
 - Clase #2 | [Oráculos, Tokens ERC20 y Chainlink Data Feeds](https://www.youtube.com/watch?v=prf1SS1t2hc)
 
+
+
 - Clase #3 | [Conceptos Fundamentales de Solidity](https://www.youtube.com/watch?v=aPc_jJvPhxw)
+
+- Clase #5 | [Sesión de Mentoria con la Comunidad de Chainlink](https://www.youtube.com/watch?v=24Ii_0HjiWo)
