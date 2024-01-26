@@ -51,6 +51,8 @@ Trnsacciones y Maquina de estado.
 ### Web 3
 - [Wallets Metamask](https://metamask.io/)
 - [Faucet](https://faucets.chain.link/)
+     -  https://sepolia-faucet.pk910.de/
+     -  https://sepoliafaucet.com/
 
 - Clase #2 | [Conceptos Fundamentales de Solidity](https://www.youtube.com/watch?v=aPc_jJvPhxw)
 
