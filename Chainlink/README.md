@@ -54,6 +54,8 @@ Trnsacciones y Maquina de estado.
 
 - Clase #2 | [Conceptos Fundamentales de Solidity](https://www.youtube.com/watch?v=aPc_jJvPhxw)
 
+- [Remix](https://remix.ethereum.org/)
+
 
 - Clase #3 | [Oráculos, Tokens ERC20 y Chainlink Data Feeds](https://www.youtube.com/watch?v=prf1SS1t2hc)
 
