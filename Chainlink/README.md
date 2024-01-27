@@ -50,15 +50,17 @@ Trnsacciones y Maquina de estado.
 
 ### Web 3
 - [Wallets Metamask](https://metamask.io/)
-- [Faucet](https://faucets.chain.link/)
-     -  https://sepolia-faucet.pk910.de/
-     -  https://sepoliafaucet.com/
+- [Faucet Chain Link](https://faucets.chain.link/)
+- [Sepolia faucet](https://sepolia-faucet.pk910.de/)
+- [Sepolia](https://sepoliafaucet.com/)  
 
 - Clase #2 | [Conceptos Fundamentales de Solidity](https://www.youtube.com/watch?v=aPc_jJvPhxw)
 
 - [Remix](https://remix.ethereum.org/)
-
+- [Register](https://sepolia.etherscan.io/address/0x639e2DbE471718c57B524ac771CB0F3A669505F5)
+- [RegisterAccess](https://sepolia.etherscan.io/address/0x96dbD625D166D8dA84fD7B03E721F1228B81b2eb) 
 
 - Clase #3 | [Oráculos, Tokens ERC20 y Chainlink Data Feeds](https://www.youtube.com/watch?v=prf1SS1t2hc)
+
 
 - Clase #5 | [Sesión de Mentoria con la Comunidad de Chainlink](https://www.youtube.com/watch?v=24Ii_0HjiWo)
