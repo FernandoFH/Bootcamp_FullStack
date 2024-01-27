@@ -62,5 +62,17 @@ Trnsacciones y Maquina de estado.
 
 - Clase #3 | [Oráculos, Tokens ERC20 y Chainlink Data Feeds](https://www.youtube.com/watch?v=prf1SS1t2hc)
 
+- [The Blockchain Oracle Problem](https://chain.link/education-hub/oracle-problem)
+
+- [Chainlink Data Feeds](https://data.chain.link/)
+
+- [Standards Token](https://ethereum.org/en/developers/docs/standards/tokens/)
+- [ERC-20](https://ethereum.org/en/developers/docs/standards/tokens/erc-20/)
+- [EIP-20](https://eips.ethereum.org/EIPS/eip-20)
+- [Wizard ERC-20](https://wizard.openzeppelin.com/#erc20) 
+
+- Clase #4 | [Cross-chain Tokens Utilizando Chainlink CCIP](https://www.youtube.com/watch?v=6KtafiSU65g)
+
+- 
 
 - Clase #5 | [Sesión de Mentoria con la Comunidad de Chainlink](https://www.youtube.com/watch?v=24Ii_0HjiWo)
