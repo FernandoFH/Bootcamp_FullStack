@@ -76,5 +76,11 @@ Trnsacciones y Maquina de estado.
 ![web3Chainlink](./images/ChainlinkWeb3p.png)
 
 - [Developer portal](https://dev.chain.link/)
+- [Chainlink CCIP](https://dev.chain.link/products/ccip) 
+- Mensajes Cross-chain
+- CCIP sender
+- CCIP receiver
+- CCIP Router 
 
 - Clase #5 | [Sesión de Mentoria con la Comunidad de Chainlink](https://www.youtube.com/watch?v=24Ii_0HjiWo)
+- Clase #6 | [NFTs y Chainlink Automation](https://www.youtube.com/watch?v=I0J7BiznF_k)
